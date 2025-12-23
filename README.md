@@ -7,17 +7,17 @@
 
 <p align="center">
   
-  <a href="https://github.com/Chewawi/gotyl/graphs/commit-activity">
+  <a href="https://github.com/KodekoStudios/gotyl/graphs/commit-activity">
     <img alt="Maintenance"
       src="https://img.shields.io/badge/Maintained-Yes-6C3BAA?style=for-the-badge&logo=undertale&logoColor=E9E3F5&labelColor=1E1A2B" /></a>
 
-  <a href="https://github.com/Chewawi/gotyl/stargazers">
+  <a href="https://github.com/KodekoStudios/gotyl/stargazers">
     <img alt="Stars"
-      src="https://img.shields.io/github/stars/Chewawi/gotyl?style=for-the-badge&logo=github&logoColor=E9E3F5&labelColor=1E1A2B&color=6C3BAA" /></a>
+      src="https://img.shields.io/github/stars/KodekoStudios/gotyl?style=for-the-badge&logo=github&logoColor=E9E3F5&labelColor=1E1A2B&color=6C3BAA" /></a>
 
-  <a href="https://github.com/Chewawi/gotyl/issues">
+  <a href="https://github.com/KodekoStudios/gotyl/issues">
     <img alt="Issues"
-      src="https://img.shields.io/github/issues/Chewawi/gotyl?style=for-the-badge&logo=github&logoColor=E9E3F5&labelColor=1E1A2B&color=6C3BAA" /></a>
+      src="https://img.shields.io/github/issues/KodekoStudios/gotyl?style=for-the-badge&logo=github&logoColor=E9E3F5&labelColor=1E1A2B&color=6C3BAA" /></a>
 
   <a href="https://go.dev/">
   <img alt="Go version"
